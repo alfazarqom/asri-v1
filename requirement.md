@@ -10,6 +10,7 @@
 | Repository | `alfazarqom/asri-v1` |
 | Application type | E-Commerce Storefront |
 | Business category | Electronics & Gadgets |
+| Store brand | Asri Store |
 | Application status | Requirement discovery |
 | Primary stack | React + Vite + TypeScript |
 
@@ -27,11 +28,18 @@
 - **Description:** Toko online untuk produk elektronik dan perangkat teknologi.
 - **Source:** User confirmation, requirement discovery question 2.
 
+### REQ-003 — Store Brand
+- **Status:** Confirmed
+- **Decision:** A. Brand sudah ada
+- **Brand name:** Asri Store
+- **Description:** Aplikasi menggunakan brand toko yang sudah dimiliki, yaitu Asri Store.
+- **Source:** User confirmation, requirement discovery question 3.
+
 ## 3. Pending Requirements
 
 Belum ada keputusan untuk bagian berikut. Setiap bagian akan diperbarui setelah jawaban pengguna dikonfirmasi.
 
-- Business identity and store concept
+- Business identity details and brand assets
 - Target users and supported devices
 - Storefront pages and navigation
 - Product catalog and product data
