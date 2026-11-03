@@ -11,6 +11,7 @@
 | Application type | E-Commerce Storefront |
 | Business category | Electronics & Gadgets |
 | Store brand | Asri Store |
+| Platform strategy | Mobile-first responsive |
 | Application status | Requirement discovery |
 | Primary stack | React + Vite + TypeScript |
 
@@ -35,12 +36,18 @@
 - **Description:** Aplikasi menggunakan brand toko yang sudah dimiliki, yaitu Asri Store.
 - **Source:** User confirmation, requirement discovery question 3.
 
+### REQ-004 — Target Platform
+- **Status:** Confirmed
+- **Decision:** A. Mobile-first Responsive
+- **Description:** Pengalaman aplikasi dioptimalkan untuk perangkat mobile dan tetap responsif pada tablet serta desktop.
+- **Source:** User confirmation, requirement discovery question 4.
+
 ## 3. Pending Requirements
 
 Belum ada keputusan untuk bagian berikut. Setiap bagian akan diperbarui setelah jawaban pengguna dikonfirmasi.
 
 - Business identity details and brand assets
-- Target users and supported devices
+- Target users
 - Storefront pages and navigation
 - Product catalog and product data
 - Cart and wishlist behavior
