@@ -9,6 +9,7 @@
 |---|---|
 | Repository | `alfazarqom/asri-v1` |
 | Application type | E-Commerce Storefront |
+| Business category | Electronics & Gadgets |
 | Application status | Requirement discovery |
 | Primary stack | React + Vite + TypeScript |
 
@@ -19,6 +20,12 @@
 - **Decision:** A. E-Commerce Storefront
 - **Description:** Aplikasi toko online yang mencakup katalog produk, keranjang belanja, checkout, dan pesanan.
 - **Source:** User confirmation, requirement discovery question 1.
+
+### REQ-002 — Business Category
+- **Status:** Confirmed
+- **Decision:** B. Electronics & Gadgets
+- **Description:** Toko online untuk produk elektronik dan perangkat teknologi.
+- **Source:** User confirmation, requirement discovery question 2.
 
 ## 3. Pending Requirements
 
